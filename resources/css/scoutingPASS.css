@@ -11,20 +11,20 @@ html, body{
     width: 100%;
     margin: 0;
     padding: 0;
-    color: black;
-    background-color: #EC01AB;
+    color: #EC01AB;
+    background-color: #000000;
 }
 
 #prematch_table, #postmatch_table {
 
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     text-align: center;
-    color: white;
+    color: black;
     font-size: 13px;
     font-style: bold;
     letter-spacing: 1px;
     border-width: 4px;
-    border-color: white;
+    border-color: black;
 }
 
 #auton_table, #endgame_table, #teleop_table {
@@ -80,8 +80,8 @@ html, body{
     position: absolute;
     left: 0;
     top: 0;
-    color: black;
-    background-color: #EC01AB;
+    color: #EC01AB;
+    background-color: #000000;
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     text-align: justify;
 }
@@ -198,13 +198,13 @@ h2{
 h1 .odd {
     font-family: Alexis;
     text-align: center;
-    color: #0AB4EC;
+    color: #EC01AB;
 }
 
 h1 .even {
     font-family: Alexis;
     text-align: center;
-    color: #42B333;
+    color: #EC01AB;
 }
 
 table {
@@ -234,7 +234,7 @@ input {
 #qr-table {
     text-align: center;
     color: black;
-    background-color: white;
+    background-color: #EC01AB;
 }
 
 #data {
