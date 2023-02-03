@@ -19,17 +19,17 @@ html, body{
 
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     text-align: center;
-    color: black;
+    color:  rgb(236,01,171);
     font-size: 13px;
     font-style: bold;
     letter-spacing: 1px;
     border-width: 4px;
-    border-color: black;
+    border-color:  rgb(236,01,171);
 }
 
 #auton_table, #endgame_table, #teleop_table {
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
-    color: black;
+    color:  rgb(236,01,171);
     font-size: 13px;
     font-style: bold;
     letter-spacing: 1px;
@@ -43,7 +43,7 @@ html, body{
 }
 
 #autonHeader, #endgameHeader, #teleopHeader1, #teleopHeader2{
-    color: black;
+    color:  rgb(236,01,171);
     border-color: black;
     border-width: 4px;
 }
@@ -54,7 +54,7 @@ html, body{
 }
 
 #prematchHeader1, #prematchHeader2{
-    color: white;
+    color:  rgb(236,01,171);
     border-color: white;
     border-width: 4px;
 }
@@ -162,14 +162,14 @@ h2{
 
 #nextButton3, #nextButton4, #nextButton5, #nextButton6, #nextButton7, #nextButton8 {
     font-family: Alexis;
-    background-color: black; 
+    background-color:  rgb(236,01,171); 
     padding: 10px;
     color: white;
 }
 
 .undoButton, .flipButton {
     font-family: Alexis;
-    background-color: black; 
+    background-color:  rgb(236,01,171); 
     padding: 10px;
     color: white;
     margin-left: 20px;
@@ -183,7 +183,7 @@ h2{
 
 #prevButton1, #prevButton2, #prevButton3, #prevButton4, #prevButton5, #prevButton6{
     font-family: Alexis;
-    background-color: black; 
+    background-color:  rgb(236,01,171); 
     padding: 10px;
     color: white;
     
@@ -208,7 +208,7 @@ h1 .even {
 }
 
 table {
-    border: 1px solid black;
+    border: 1px solid  rgb(236,01,171);
     width: 100%;
 }
 
