@@ -155,7 +155,7 @@ h2{
 #nextButton1, #nextButton2, #nextButton9, #nextButton10, .clearForm, .submitForm, #displayButton, #copyButton {
     font-family: Alexis; 
     padding: 10px;
-    background-color: rgb(151, 199, 240);
+    background-color: rgb(236, 01, 171);
     text-decoration: none;
     display: inline-block;
 }
@@ -177,7 +177,7 @@ h2{
 
 #prevButton7, #prevButton8, #prevButton9{
     font-family: Alexis;
-    background-color: rgb(151, 199, 240); 
+    background-color: rgb(236, 01, 171); 
     padding: 10px;
 }
 
