@@ -11,7 +11,7 @@ html, body{
     width: 100%;
     margin: 0;
     padding: 0;
-    color: #EC01AB;
+    color:  rgb(236,01,171);
     background-color: #000000;
 }
 
@@ -80,8 +80,8 @@ html, body{
     position: absolute;
     left: 0;
     top: 0;
-    color: #EC01AB;
-    background-color: #000000;
+    color: rgb(236,01,171);
+    background-color: rgb(236,01,171);
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     text-align: justify;
 }
@@ -118,7 +118,7 @@ h1{
 }
 
 #page2, #page4 {
-    color: #EC01AB;
+    color:  rgb(236,01,171);
 }
 
 h2{
@@ -198,13 +198,13 @@ h2{
 h1 .odd {
     font-family: Alexis;
     text-align: center;
-    color: #EC01AB;
+    color:  rgb(236,01,171);
 }
 
 h1 .even {
     font-family: Alexis;
     text-align: center;
-    color: #EC01AB;
+    color:  rgb(236,01,171);
 }
 
 table {
@@ -234,7 +234,7 @@ input {
 #qr-table {
     text-align: center;
     color: black;
-    background-color: #EC01AB;
+    background-color:  rgb(236,01,171);
 }
 
 #data {
