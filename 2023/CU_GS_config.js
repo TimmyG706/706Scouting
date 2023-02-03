@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "706 Scouting 2023",
-  "page_title": "Charged Up",
+  "page_title": "706 Scouting",
   "checkboxAs": "10",
   "enable_google_sheets": "true",
   "prematch": [
