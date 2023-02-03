@@ -131,11 +131,6 @@ var config_data = `
       "shape": "circle 12 black red true",
       "cycleTimer": "tct"
     },
-    { "name": "Feeder Count<br>(Fed another bot)",
-      "code": "tfc",
-      "gsCol": "feedCount",
-      "type": "counter"
-    },
     { "name": "Was Defended",
       "code": "wd",
       "gsCol": "wasDefended",
